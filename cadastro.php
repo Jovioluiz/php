@@ -36,7 +36,7 @@
 		<label>Hora do evento: <input type="time" name="hora"></label>
 	</div>
 	<div>
-		A venda de ingressos está aberta?
+		A venda de ingressos ainda está aberta?
 		<label><input type="radio" name="venda" value="1" checked="">Sim</label>
 		<label><input type="radio" name="venda" value="0">Não</label>
 	</div>
